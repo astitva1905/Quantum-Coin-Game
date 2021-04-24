@@ -20,3 +20,6 @@ The game is GUI based, using tkinter in python. However, it isn't perfect yet in
 Still in beta for presentation. 
 
 
+##Idea Credits
+The credits for the idea of this game go to a TED video by Shohini Ghose, the link to which is attached below:
+[A beginner's guide to quantum computing | Shohini Ghose](https://www.youtube.com/watch?v=QuR969uMICM&t=62s)
