@@ -36,6 +36,7 @@ def info():
 	v.pack(side=RIGHT,fill=Y)
 	t = Text(frame,width = 70 , height = 30,wrap = WORD,yscrollcommand=v.set,font=("Arial", 13),bg="#856ff8",fg="white")
 	t.insert(INSERT,expl)
+	t.configure(state="disabled")
 	t.pack(side=TOP, anchor=NW)
 	v.config(command=t.yview)
 	b = Button(h1,text="Exit",font=("Arial", 15),padx=12,pady=5,bg="white",command= root.destroy)
