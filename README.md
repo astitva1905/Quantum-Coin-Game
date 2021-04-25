@@ -1,7 +1,7 @@
 # Quantum-Coin-Game
 
 This is a small educational project, that can help understand a key difference of Quantum Computers and Classical Comuters. <br>
-This is done by means of a simple game, that the User has a 50% chance of winning on a classical computer, when playing against teh computer. <br>
+This is done by means of a simple game, that the User has a 50% chance of winning on a classical computer, when playing against the computer. <br>
 However, in a quantum computer, the user has a theoretically 0% chance of winning this game against the Quantum Computer. <br>
 How? because a Quantum computer can exploit Superposition and maintain an algorithm that always makes it win the game, no matter what the user does. <br>
 
