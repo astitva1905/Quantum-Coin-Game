@@ -26,8 +26,10 @@ How? because a Quantum computer can exploit Superposition and maintain an algori
 The game is in coded in python, using tkinter for GUI and IBM Qiskit for Quantum simulation.<br>
 tkinter is a built-in module of python, however you'll have to download Qiskit to use the game. <br><br>
 
-In case you are having problems in downloading Qiskit on your PC, you can use Google Colab to run the game. <br> 
-Simply type !pip install qiskit on a Jupyter notebook in Colab, then copy the code from TheGame.py file into an empty cell in the notebook, and run the cell. <br>
+In case you are having problems in downloading Qiskit directly on your PC, you can use Jupyter Notebook to run the game. <br> 
+1. Simply type !pip install qiskit on the first cell in a Jupyter notebook.
+2. In the second cell type !pip install pylatexenc
+3. Then copy the code from TheGame.py file into an empty cell in the notebook, and run the cell. <br>
 
 
 ## Idea Credits
