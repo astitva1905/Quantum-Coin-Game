@@ -7,7 +7,7 @@ How? because a Quantum computer can exploit Superposition and maintain an algori
 
 ## Structure of the game:
 1. The game has two levels : Level 1: Classical Coin Game, And Level 2: Quantum Coin Game level. <br>
-2. In Level 1 , you play the game again a classical COmputer with a classical Coin. <br>
+2. In Level 1 , you play the game again a classical Computer with a classical Coin. <br>
 3. In Level 2, you play the game against a Quantum Computer with a Quantum Coin. <br>
 4. In both levels, the rules remain the same. <br>
 5. You will have explored the entire game only once you have read the Final educational note about how the game works and can see the "Exit" button below it. This may take some retries, definitely in the Quantum Level. 
@@ -31,6 +31,10 @@ In case you are having problems in downloading Qiskit directly on your PC, you c
 2. In the second cell type !pip install pylatexenc
 3. Then copy the code from TheGame.py file into an empty cell in the notebook, and run the cell. <br>
 
+## A Sneak peek!<br>
+[Start Page](https://github.com/astitva1905/Quantum-Coin-Game/blob/main/Images/im1.jpeg)<br><br>
+[Level 2 Page](https://github.com/astitva1905/Quantum-Coin-Game/blob/main/Images/im2.jpeg)<br><br>
+[Game Completed](https://github.com/astitva1905/Quantum-Coin-Game/blob/main/Images/im3.jpeg)<br><br>
 
 ## Idea Credits
 The credits for the idea of this game go to a TED video by Shohini Ghose, the link to which is attached below:<br>
