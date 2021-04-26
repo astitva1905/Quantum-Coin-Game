@@ -32,9 +32,9 @@ In case you are having problems in downloading Qiskit directly on your PC, you c
 3. Then copy the code from TheGame.py file into an empty cell in the notebook, and run the cell. <br>
 
 ## A Sneak peek!<br>
-[Start Page](https://github.com/astitva1905/Quantum-Coin-Game/blob/main/Images/im1.jpeg)<br><br>
-[Level 2 Page](https://github.com/astitva1905/Quantum-Coin-Game/blob/main/Images/im2.jpeg)<br><br>
-[Game Completed](https://github.com/astitva1905/Quantum-Coin-Game/blob/main/Images/im3.jpeg)<br><br>
+![Start Page](https://github.com/astitva1905/Quantum-Coin-Game/blob/main/Images/im1.jpeg)<br><br>
+![Level 2 Page](https://github.com/astitva1905/Quantum-Coin-Game/blob/main/Images/im2.jpeg)<br><br>
+![Game Completed](https://github.com/astitva1905/Quantum-Coin-Game/blob/main/Images/im3.jpeg)<br><br>
 
 ## Idea Credits
 The credits for the idea of this game go to a TED video by Shohini Ghose, the link to which is attached below:<br>
